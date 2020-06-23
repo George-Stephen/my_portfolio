@@ -18,3 +18,5 @@ to navigate through the website.It has links to show the live sites to the websi
 The website is deployed using the link above in the description or the link below
 https://george-stephen.github.io/my_portfolio/
 
+## CopyRight
+(LICENSE)My license
