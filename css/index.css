@@ -26,3 +26,23 @@ footer{
 body{
     background-color: lightslategray;
 }
+#my_skills{
+    text-align: center;
+    padding: 30pt 30pt;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+li{
+    list-style-type: disc;
+}
+.col-md-3{
+    padding-left: 25px;
+}
+#contact{
+    text-align: center;
+    padding: 20pt 20pt;
+}
+#contact li{
+    list-style-type: none;
+    padding: 20pt 20pt;
+}
