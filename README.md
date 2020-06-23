@@ -6,7 +6,7 @@
 * LiveSite
 * Copyright License
 ## Author
-[George Stephen Wangui] (Yazz777stevie@gmail.com)
+[George Stephen Wangui](Yazz777stevie@gmail.com)<br/>
 Software Engineer
 
 ## Description
