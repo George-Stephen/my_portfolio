@@ -1,9 +1,13 @@
 # my_portfolio
 ## Table of Contents
+* Author
 * Description
 * B.D.D
 * LiveSite
 * Copyright License
+## Author
+[George Stephen Wangui] (Yazz777stevie@gmail.com)
+Software Engineer
 
 ## Description
 This is website that displays my personal portfolio that is meant to display details about myself.It has a four major pages that is About, Skills , Projects and Contact pages.
@@ -19,4 +23,4 @@ The website is deployed using the link above in the description or the link belo
 https://george-stephen.github.io/my_portfolio/
 
 ## CopyRight
-(LICENSE)My license
+[MIT LICENSE](LICENSE)
