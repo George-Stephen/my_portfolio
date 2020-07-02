@@ -33,7 +33,7 @@ body{
     font-size: 18px;
 }
 li{
-    list-style-type: disc;
+    list-style-type: none;
 }
 .col-md-3{
     padding-left: 25px;
@@ -45,4 +45,7 @@ li{
 #contact li{
     list-style-type: none;
     padding: 20pt 20pt;
+}
+nav{
+    background-color: #36539D;
 }
