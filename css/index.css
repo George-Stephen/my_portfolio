@@ -46,6 +46,10 @@ li{
     list-style-type: none;
     padding: 20pt 20pt;
 }
-nav{
-    background-color: #36539D;
+footer{
+    position: fixed;
+    left: 0;
+  bottom: 0;
+  width: 100%;
 }
+
